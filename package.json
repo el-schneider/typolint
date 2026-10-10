@@ -24,7 +24,7 @@
     "url": "git+https://github.com/el-schneider/typolint.git"
   },
   "bin": {
-    "typolint": "./dist/cli.js"
+    "typolint": "dist/cli.js"
   },
   "files": [
     "dist",
