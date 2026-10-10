@@ -1,0 +1,41 @@
+# English copy for a made-up note app. {name} is the product name; *…* marks the phrase set in italic.
+# Contains four known issues (marked "issue:") and many cases that must stay untouched.
+
+meta:
+  title: "{name}: notes that *stay put.*"
+  description: "{name} keeps your notes on your computer, in plain files you can open anywhere."
+
+nav:
+  search: "Search, or jump to…"
+  count: { one: 1 note, other: "{n} notes" }
+  links: [Features, Pricing, Changelog]
+
+signup:
+  title: "You're on the list." # issue: You're
+  body: "Thanks for signing up. We'll write once, when the beta opens." # issue: We'll
+  placeholder: you@example.com
+  sending: One moment…
+
+features:
+  sync:
+    title: Your files, *your folder.*
+    body: >-
+      Notes live as Markdown in a folder you choose,
+      so any editor can open them.
+  quote:
+    text: "“Finally a notes app that leaves my files alone.”"
+    from: A reader · Yesterday
+  options:
+    cloud: { label: "{name}'s sync", note: Encrypted before it leaves your computer. } # issue: {name}'s
+    local: { label: On your computer, note: Nothing leaves it at all. }
+
+faq:
+  - q: Where are my notes stored?
+    a: "In a folder on your computer. When you turn on {name}'s sync, an encrypted copy goes to the server, and nothing else." # issue: {name}'s
+  - q: What does it cost?
+    a: |
+      The beta is free.
+      See https://example.com/pricing for plans.
+
+footer:
+  made: Made in Europe

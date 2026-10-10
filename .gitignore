@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.vitest/
+*.tgz
+.env*
+.npmrc
+.pi/
+.pi-subagents/

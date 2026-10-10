@@ -1,0 +1,12 @@
+{
+  "command.bold": "Bold",
+  "command.title": "{label} ({shortcut})",
+  "editor.mark-label": "Mark {number}",
+  "error.load": "Could not load the note. {reason}",
+  "list.count": "{count, plural, one {# note} other {# notes}} · {folder}",
+  "list.empty": "No notes",
+  "note.meta": "{author} · {date}",
+  "settings.escaped": "Type '{' to start a placeholder.",
+  "sync.status": "{state, select, done {All synced} failed {Sync failed} other {Syncing…}}",
+  "toolbar.new": "New"
+}

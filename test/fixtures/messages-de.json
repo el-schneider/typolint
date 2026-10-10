@@ -1,0 +1,12 @@
+{
+  "command.bold": "Fett",
+  "command.title": "{label} ({shortcut})",
+  "editor.mark-label": "Markierung {number}",
+  "error.load": "Die Notiz konnte nicht geladen werden. {reason}",
+  "list.count": "{count, plural, one {# Notiz} other {# Notizen}} · {folder}",
+  "list.empty": "Keine Notizen",
+  "note.meta": "{author} · {date}",
+  "settings.escaped": "Tippe '{', um einen Platzhalter zu beginnen.",
+  "sync.status": "{state, select, done {Alles synchron} failed {Sync fehlgeschlagen} other {Synchronisiere …}}",
+  "toolbar.new": "Neu"
+}

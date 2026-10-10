@@ -1,0 +1,40 @@
+# Deutsche Fassung. Muss ohne Befund bleiben.
+
+meta:
+  title: "{name}: Notizen, *die bleiben.*"
+  description: "{name} hält deine Notizen auf deinem Computer, in einfachen Dateien, die du überall öffnen kannst."
+
+nav:
+  search: "Suchen oder springen zu …"
+  count: { one: 1 Notiz, other: "{n} Notizen" }
+  links: [Funktionen, Preise, Änderungen]
+
+signup:
+  title: Du stehst auf der Liste.
+  body: Danke für die Anmeldung. Wir schreiben dir einmal, wenn die Beta startet.
+  placeholder: du@beispiel.de
+  sending: Einen Moment …
+
+features:
+  sync:
+    title: Deine Dateien, *dein Ordner.*
+    body: >-
+      Notizen liegen als Markdown in einem Ordner deiner Wahl,
+      also kann jeder Editor sie öffnen – auch in zehn Jahren.
+  quote:
+    text: "„Endlich eine Notiz-App, die meine Dateien in Ruhe lässt.“"
+    from: "Eine Leserin · Gestern"
+  options:
+    cloud: { label: "Sync von {name}", note: Verschlüsselt, bevor es deinen Computer verlässt. }
+    local: { label: Auf deinem Computer, note: Nichts verlässt ihn. }
+
+faq:
+  - q: Wo liegen meine Notizen?
+    a: "In einem Ordner auf deinem Computer. Mit dem Sync von {name} geht eine verschlüsselte Kopie an den Server, sonst nichts."
+  - q: Was kostet es?
+    a: |
+      Die Beta ist kostenlos.
+      Preise stehen unter https://example.com/preise.
+
+footer:
+  made: Gemacht in Europa
